@@ -1,3 +1,7 @@
+2015-02-18  Michael R. Crusoe  <mcrusoe@msu.edu>
+
+   * Doxyfile.in: make documentation generation reproducible, removed timestamp
+
 2015-02-13  Qingpeng Zhang  <qingpeng@msu.edu>
 
    * scripts/sample-reads-randomly.py: fix a glitch about string formatting.
