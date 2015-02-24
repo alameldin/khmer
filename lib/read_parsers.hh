@@ -123,7 +123,7 @@ public:
     void imprint_next_read(Read &the_read);
 
 private:
-    seqan::SequenceStream _stream;
+    seqan::SeqFileIn _file;
     uint32_t _seqan_spin_lock;
 
 };
